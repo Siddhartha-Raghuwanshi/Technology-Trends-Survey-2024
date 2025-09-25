@@ -86,7 +86,7 @@ Workforce & Demographics
 
 📂 Repository Contents
 
--Technology Trends Survey 2024.pdf (Full analysis report)
+-Technology Trends Analysis 2024.pdf (Full analysis report)
 -Dashboard.pdf
 -CSV Files
 -README.txt
