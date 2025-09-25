@@ -1,4 +1,4 @@
-Technology Trends Survey 2024
+Technology Trends Analysis 2024
 
 📄 Author: Siddhartha Raghuwanshi
 📅 Date: September 2025
